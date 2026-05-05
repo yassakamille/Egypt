@@ -1,9 +1,9 @@
 body{
-    background-color:green;
+    background-color:rgb(127, 127, 127);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    color:white;
+    color:rgb(194, 194, 194);
     font-family: 'Times New Roman', Times, serif;
 }
 h2{
