@@ -7,14 +7,14 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 h2{
-  color:rgb(51, 0, 255)  ;
+  color:blue  ;
   font-family: 'Times New Roman', Times, serif;
 }
 h3{
     font-style: italic;
 }
 nav ul{
-    background-color: sandybrown;
+    background-color: red;
     border-style: solid;
     border-color: antiquewhite;
     border-width: 2px;
